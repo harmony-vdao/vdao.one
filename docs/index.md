@@ -300,10 +300,7 @@
     <li class="c5 li-bullet-0"><span class="c3">Election term changes to include the initial term will be voted
             on by the community through a VDAO proposal.</span></li>
 </ul>
-<p class="c0 c34"></span></p>
-<p class="c0 c34"></span></p>
-<p class="c11">&nbsp;</span></p>
-<h1 class="c30 c22" id="h.s5hctf8iasld"><span class="c16 c25">6</span>. Compensation</span></h1>
+<h1 class="c30 c22" id="h.s5hctf8iasld"><span class="c16 c25">6</span>. Compensation</h1>
 <p class="c6"><span class="c19 c14 c37">All current and future compensation packages during each term are to be
         decided upon by the Governors of the currently serving term. The compensation package should be agreed
         upon and ratified within the first week of being elected. </span></p>
@@ -317,4 +314,3 @@
     <li class="c6 c8 li-bullet-0"><span class="c19 c14 c37">It is incumbent upon the DAO to maintain the
             treasury funds in perpetuity</span></li>
 </ul>
-<h1 class="c11 c22 c43" id="h.1cfc0mqmc9xh"></span></h1>

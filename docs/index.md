@@ -41,7 +41,7 @@
 <p class="c12"><span class="c7"></span></p>
 <p class="c32"><span class="c7">Annexes</span></p>
 <p class="c32"><span>**</span><span class="c41"><a class="c9"
-            href="https://www.google.com/url?q=https://docs.google.com/document/u/1/d/1IbWapMLOGNgqKAqlWi44f_xVB2qUYmXqPU1wPm_O03E/edit&amp;sa=D&amp;source=editors&amp;ust=1633448538154000&amp;usg=AOvVaw0vd-NQaMrLxNm0v-nv-Xh_">Annexes</a>are
+            href="https://www.google.com/url?q=https://docs.google.com/document/u/1/d/1IbWapMLOGNgqKAqlWi44f_xVB2qUYmXqPU1wPm_O03E/edit&amp;sa=D&amp;source=editors&amp;ust=1633448538154000&amp;usg=AOvVaw0vd-NQaMrLxNm0v-nv-Xh_">Annexes</a> are
         a separate fungible document to be modified by each elected DAO and attached separately**</span></p>
 <hr style="page-break-before:always;display:none;">
 <p class="c20"></p>

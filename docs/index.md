@@ -19,17 +19,20 @@
         class="c3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="c3"><a class="c9"
             href="#h.r21p0a3nrfu4">3</a></span></p>
 <p class="c23"><span class="c3"><a class="c9" href="#h.5exahog7jjjo">Validator DAO Business process</a></span><span
-        class="c3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="c14">4</span></p>
+        class="c3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="c3"><a class="c9"
+            href="#h.5exahog7jjjo">4</a></span></p>
 <p class="c23"><span>HIP Decision Making process</span><span
         class="c3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5</span></p>
-<p class="c29"><span class="c16">Governor</span><span class="c7"><a class="c9"
-            href="#h.whlitk45frwb">&nbsp;Elections:</a></span><span
-        class="c7">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="c14 c16">6</span></p>
+<p class="c23"><span class="c3"><a class="c9" href="#h.whlitk45frwb">Governor Elections:</a></span><span
+        class="c3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="c3"><a class="c9"
+            href="#h.whlitk45frwb">6</a></span></p>
 <p class="c23"><span class="c3"><a class="c9" href="#h.kbjwefbazcly">Initial Term </a></span><span
-        class="c3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="c14">6</span></p>
-<p class="c23"><span class="c14">Quarterly</span><span class="c3"><a class="c9" href="#h.ui8ereotoz19">&nbsp;Validator
-            Elections</a></span><span class="c3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span
-        class="c14">6</span></p>
+        class="c3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="c3"><a class="c9"
+            href="#h.kbjwefbazcly">6</a></span></p>
+<p class="c23"><span class="c3"><a class="c9" href="#h.ui8ereotoz19">Quarterly Validator
+            Elections</a></span><span
+        class="c3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="c3"><a class="c9"
+            href="#h.ui8ereotoz19">6</a></span></p>
 <p class="c23"><span class="c3"><a class="c9" href="#h.78sgsf19q2i4">Term Limits</a></span><span
         class="c3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="c14">6</span></p>
 <p class="c23"><span class="c3"><a class="c9" href="#h.qcb1nmx40xs8">No Confidence Vote</a></span><span

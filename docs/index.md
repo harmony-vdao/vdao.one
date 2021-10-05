@@ -116,7 +116,7 @@
         </span><span>directly or</span><span class="c3">&nbsp;through their Validator/s. </span></li>
 </ul>
 <p class="c6 c24"><span class="c3"><br></span></p>
-<h2 class="c11 c13" id="h.t3ih8xe0di5p"><span>1.</span><span>&nbsp;Charter Ratification process</span></h2>
+<h2 class="c11 c13" id="h.t3ih8xe0di5p"><span>1. Charter Ratification process</span></h2>
 <p class="c11"><span class="c3">Ratifying the Validator DAO constitution requires 5/5 members of the
         Validator DAO to agree to the final charter prior to submitting the ratification proposal to a vote.
         The ratification will be posted on talk.harmony.one as a HIP proposal. The HIP proposals will be
@@ -124,7 +124,7 @@
         https://gov.harmony.one/#/dao-mainnet.</span></p>
 <p class="c11"><span>The ratification proposal requires 51 percent of the stake weight participating and 67%
         in agreement.</span></p>
-<h2 class="c11 c13" id="h.r21p0a3nrfu4"><span>2. </span>Charter Amendment process
+<h2 class="c11 c13" id="h.r21p0a3nrfu4"><span>2. Charter Amendment process
     </span></h2>
 <p class="c11"><span class="c3">All amendments to the charter require all members of the Validator DAO to agree
         to an amendment prior to submitting the amendment proposal to a vote. The charter amendment will be
@@ -139,7 +139,7 @@
 <p class="c0"><span class="c7"></span></p>
 <p class="c0"><span class="c7"></span></p>
 <p class="c0"><span class="c7"></span></p>
-<h2 class="c11 c13" id="h.pkpv44hnuipm"><span>3. </span>Validator DAO Business processes</span></h2>
+<h2 class="c11 c13" id="h.pkpv44hnuipm"><span>3. Validator DAO Business processes</span></h2>
 <p class="c0"><span class="c3"></span></p>
 <p class="c11"><span class="c7">a. Major DAO initiatives</span></p>
 <p class="c11"><span class="c3">Major Initiatives that require coding changes require a majority of the

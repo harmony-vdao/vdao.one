@@ -218,7 +218,7 @@
     </span>
     <hr style="page-break-before:always;display:none;">
 </p>
-<h1 class="c30 c22 c39" id="h.whlitk45frwb">5. Governor Elections:</span></h1>
+<h1 class="c30 c22 c39" id="h.whlitk45frwb">5. Governor Elections:</h1>
 <ul class="c4 lst-kix_52ctsigi581u-0 start">
     <li class="c2 li-bullet-0"><span class="c3">All Governors must be formally elected.</span></li>
     <li class="c2 li-bullet-0"><span class="c3">There will be 9 Governors elected per DAO term.</span></li>

@@ -21,7 +21,7 @@
 <p class="c23"><span class="c3"><a class="c9" href="#h.5exahog7jjjo">Validator DAO Business process</a></span><span
         class="c3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="c14">4</span></p>
 <p class="c23"><span>HIP Decision Making process</span><span
-        class="c3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span>5</span></p>
+        class="c3">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;5</span></p>
 <p class="c29"><span class="c16">Governor</span><span class="c7"><a class="c9"
             href="#h.whlitk45frwb">&nbsp;Elections:</a></span><span
         class="c7">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span class="c14 c16">6</span></p>
@@ -80,8 +80,8 @@
 </ul>
 <p class="c10 c18"><span class="c3"></span></p>
 <ul class="c4 lst-kix_9dx6awh9ka1-0">
-    <li class="c10 c8 li-bullet-0"><span>The $ONE holders exercise power </span><span>directly
-            or</span><span>&nbsp;through the Validators by virtue of </span><span><a class="c9"
+    <li class="c10 c8 li-bullet-0"><span>The $ONE holders exercise power directly
+            or through the Validators by virtue of <a class="c9"
                 href="https://www.google.com/url?q=https://staking.harmony.one/validators/mainnet&amp;sa=D&amp;source=editors&amp;ust=1633448538158000&amp;usg=AOvVaw0nZckgQ8mT64Jma95VMH5R">staking</a></span><span
             class="c3">.</span></li>
 </ul>
@@ -100,9 +100,9 @@
 </ul>
 <p class="c6 c18"><span class="c3"></span></p>
 <ul class="c4 lst-kix_azr2uasw2nk1-0">
-    <li class="c6 c8 li-bullet-0"><span>Governance is available via </span><span><a class="c9"
+    <li class="c6 c8 li-bullet-0"><span>Governance is available via <a class="c9"
                 href="https://www.google.com/url?q=https://gov.harmony.one/%23/&amp;sa=D&amp;source=editors&amp;ust=1633448538160000&amp;usg=AOvVaw3_8bBB2qBV_14vEams3tLm">Harmony
-                Governance App</a></span><span>&nbsp;and </span><span><a class="c9"
+                Governance App</a> and <a class="c9"
                 href="https://www.google.com/url?q=https://docs.harmony.one/home/network/wallets/harmony-cli&amp;sa=D&amp;source=editors&amp;ust=1633448538160000&amp;usg=AOvVaw02EH5MO4cGpWyhHcicSk8k">HMY
                 CLI</a></span><span class="c3">.</span></li>
 </ul>
@@ -113,7 +113,7 @@
 <p class="c6 c18"><span class="c3"></span></p>
 <ul class="c4 lst-kix_azr2uasw2nk1-0">
     <li class="c6 c8 li-bullet-0"><span>Every $ONE holder can choose to participate in Governance
-        </span><span>directly or</span><span class="c3">&nbsp;through their Validator/s. </span></li>
+        directly or</span><span class="c3">&nbsp;through their Validator/s. </span></li>
 </ul>
 <p class="c6 c24"><span class="c3"><br></span></p>
 <h2 class="c11 c13" id="h.t3ih8xe0di5p"><span>1. Charter Ratification process</span></h2>
@@ -161,7 +161,7 @@
 <p class="c11"><span class="c16">c. Simple Initiatives without Coding or Funding</span><span class="c3">&nbsp;</span>
 </p>
 <p class="c11"><span>Simple initiatives not requiring a coding change or use of Validator DAO funds requires
-        6</span><span>/9 </span><span class="c3">members of the Validator DAO to agree and a thread on
+        6/9 </span><span class="c3">members of the Validator DAO to agree and a thread on
         https://talk.harmony.one which will be broadcast on all channels for no less than 7 days to gauge
         community support. Defining the scope of these initiatives will be at the discretion of the Validator
         DAO.</span></p>
@@ -180,16 +180,16 @@
 <h2 class="c11 c22" id="h.c2h1z0gandb4"><span class="c7">The Harmony Improvement Proposal (HIP) Decision Making
         Process includes 3 main phases:</span></h2>
 <ul class="c4 lst-kix_91elsec8m3hc-0 start">
-    <li class="c6 c8 li-bullet-0"><span>t</span><span>alk.harmony.one</span><span>: Proposal
+    <li class="c6 c8 li-bullet-0"><span>talk.harmony.one: Proposal
             Notification</span><span class="c3">&nbsp;</span></li>
-    <li class="c6 c8 li-bullet-0"><span>AMA </span><span>Presentation and Debate</span><span class="c3">&nbsp;(goal - to
+    <li class="c6 c8 li-bullet-0"><span>AMA Presentation and Debate</span><span class="c3">&nbsp;(goal - to
             specify with the team if they&rsquo;re going to implement that)</span>
     </li>
     <li class="c6 c8 li-bullet-0"><span>Voting</span></li>
 </ul>
 <p class="c11"><span class="c16">a.</span><span class="c16">&nbsp;</span><span class="c16">Talk.harmony.one</span><span
         class="c7">: Proposal Notification</span></p>
-<p class="c11"><span>The proponent must create a talk thread in the Governance section. </span><span>Proposals
+<p class="c11"><span>The proponent must create a talk thread in the Governance section. Proposals
         should be in standardized HIP format with a title but should not include a HIP number until it meets the
         gate requirements to move to a vote.</span><span class="c3">&nbsp;</span></p>
 <p class="c11"><span class="c16">b. </span><span class="c16">&nbsp;AMA </span><span class="c7">Presentation and
@@ -214,7 +214,7 @@
         proposal shall have a 7 day waiting period where the proponent can continue to advocate for the proposal
         and generate support. During this time the proponent should coordinate with the Validator DAO to assist
         with generating participation. The voting period shall last 14 days whereby the proposal must reach 51%
-        of the total stake weight and </span><span>2/3rds in favor</span><span>&nbsp;of the proposal to pass.
+        of the total stake weight and 2/3rds in favor of the proposal to pass.
     </span>
     <hr style="page-break-before:always;display:none;">
 </p>
@@ -231,7 +231,7 @@
 </ol>
 <ul class="c4 lst-kix_kptnjklemmne-0 start">
     <li class="c6 c8 li-bullet-0"><span>Elections completed May 2021, Initial Term through completion and
-            certification of elections September </span><span>202</span><span class="c3">1<br></span></li>
+            certification of elections September 2021<br></span></li>
 </ul>
 <ol class="c4 lst-kix_geuwszc0pkr7-0" start="2">
     <li class="c5 c22 li-bullet-0">
@@ -292,7 +292,7 @@
             using the annual validator elections rules selecting the number of spots required to be
             replaced.</span></li>
 </ol>
-<p class="c11"><span>&nbsp; &nbsp; &nbsp; </span><span class="c16 c44">e.</span><span>&nbsp;</span><span
+<p class="c11"><span>&nbsp; &nbsp; &nbsp; </span><span class="c16 c44">e. </span><span
         class="c7">Election Dates and Intervals </span></p>
 <ul class="c4 lst-kix_qroe39a7i4jo-0 start">
     <li class="c5 li-bullet-0"><span class="c3">It is required that the Validator DAO vote to confirm all
